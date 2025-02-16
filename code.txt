@@ -1,4 +1,1 @@
 hello world !!!
-take input form user
-add the values
-hello
